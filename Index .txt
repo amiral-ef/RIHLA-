@@ -1,0 +1,38 @@
+Index
+
+
+
+
+<!-- index.html -->
+
+<!doctype html>
+
+<html lang="en" class="h-full">
+
+  <head>
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Rihla — Modest Activewear</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+  </head>
+
+  <body class="h-full">
+
+    <div id="root"></div>
+
+    <script src="app.js"></script>
+
+  </body>
+
+</html>
